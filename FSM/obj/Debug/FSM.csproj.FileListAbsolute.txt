@@ -1,0 +1,7 @@
+C:\Users\lexpr\source\repos\FSM\FSM\bin\Debug\FSM.exe.config
+C:\Users\lexpr\source\repos\FSM\FSM\bin\Debug\FSM.exe
+C:\Users\lexpr\source\repos\FSM\FSM\bin\Debug\FSM.pdb
+C:\Users\lexpr\source\repos\FSM\FSM\obj\Debug\FSM.csprojAssemblyReference.cache
+C:\Users\lexpr\source\repos\FSM\FSM\obj\Debug\FSM.csproj.CoreCompileInputs.cache
+C:\Users\lexpr\source\repos\FSM\FSM\obj\Debug\FSM.exe
+C:\Users\lexpr\source\repos\FSM\FSM\obj\Debug\FSM.pdb
